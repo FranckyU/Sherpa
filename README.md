@@ -5,7 +5,7 @@
 
 We're making static web pages in our everyday life as Rails developer.
 
-My principal tool is (Stasis)[http://stasis.me], I even build a ready to use template at [StasisTPL](https://github.com/FranckyU/StasisTPL). 
+My principal tool is [Stasis](http://stasis.me), I even build a ready to use template at [StasisTPL](https://github.com/FranckyU/StasisTPL). 
 
 The problem was that stasis is buggy in development mode when I tried to run `stasis -d port` where I expect to have my static mockups served at `http://127.0.0.1:port`
 
