@@ -3,10 +3,13 @@
 
 ## Initial motivations
 
-We're making static web pages in our everyday life as Rails developer.  
-My principal tool is (Stasis)[http://stasis.me], I even build a ready to use template at (StasisTPL)[https://github.com/FranckyU/StasisTPL].  
+We're making static web pages in our everyday life as Rails developer.
+
+My principal tool is (Stasis)[http://stasis.me], I even build a ready to use template at [StasisTPL](https://github.com/FranckyU/StasisTPL). 
+
 The problem was that stasis is buggy in development mode when I tried to run `stasis -d port` where I expect to have my static mockups served at `http://127.0.0.1:port`
-So I decided to seek for a lightweight web server, written in C so it could fit within an executable, then I saw (this blog post)[http://blog.abhijeetr.com/2010/04/very-simple-http-server-writen-in-c.html] and decided to build a version of it.
+
+So I decided to seek for a lightweight web server, written in C so it could fit within an executable, then I saw [this blog post](http://blog.abhijeetr.com/2010/04/very-simple-http-server-writen-in-c.html) and decided to build a version of it.
 
 ## What's Sherpa ?
 
